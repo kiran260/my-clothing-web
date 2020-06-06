@@ -1,0 +1,52 @@
+.grad,.card-footer{
+    
+    background-image: radial-gradient(   brown ,black);
+    font-family:cursive;
+    
+    
+}
+/* .text{
+    
+    float: right;
+    position: relative;
+    top: 150px;
+    font-family:cursive;
+    color: darkred;
+    text-decoration: underline;
+  
+    
+    
+    
+    
+    
+} */
+.bottom{
+    position: absolute;
+    bottom: 30px;
+    right:30px;
+    width: 25%;
+  
+    font-family:cursive;
+    color: darkred;
+    text-decoration: underline;
+    background-color: transparent;
+    /* margin: 0 10px 10px 0; */
+  }
+  
+  @media screen and (max-width: 800px) {
+    .bottom {
+        
+        position: absolute;
+        bottom: 10px;
+        right:0px;
+        width: 50%;
+        
+     
+     
+
+    }
+  }
+  
+
+
+

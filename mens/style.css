@@ -1,0 +1,73 @@
+.imgBox:hover
+{
+    box-shadow:  0 0 10px 7px rgba(0,0,0,0.6);
+}
+.a:hover{
+    background-color: indianred;
+}
+.center{
+    
+    position: absolute;
+    bottom: 50px;
+    right: 0;
+    left:0px;
+    font-weight: 900;
+    
+    
+}
+.cati{
+    text-shadow: 2px 4px peru;
+    font-size: 64px;
+
+}
+.para{
+    text-decoration: line-through;
+}
+.ph{
+    line-height: 2.5rem;
+}
+.head{
+    text-decoration: underline !important;
+    text-shadow: 1px 2px palevioletred;
+}
+.card{
+    border: none;
+}
+.foot{
+    border-bottom: 1px solid lightskyblue ;
+    font-size: 18px
+;
+}
+.card-text{
+    
+    cursor: pointer;
+    color: black;
+    font-weight: 500;
+    line-height: 1.9em;
+}
+.head-icon{
+    font-size: 32px !important;
+    margin-right: 10px;
+    cursor: pointer;
+    color:rgb(0, 64, 133);
+
+}
+.head-icon:hover{
+    box-shadow: 0 0 15px 10px blue;
+}
+.fa-heart-o,.fa-cart-plus{
+    font-size: 22px !important;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.fa-cart-plus{
+    color: black !important;
+}
+@media (min-width: 576px) { 
+    .navbar-text{
+        display: inline-block !important;
+    }
+
+}
+
+

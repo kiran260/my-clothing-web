@@ -1,0 +1,9 @@
+body{
+    background-color:lightpink;
+}
+.form{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    box-shadow:12px 12px 12px purple;
+
+}
